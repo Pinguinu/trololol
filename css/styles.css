@@ -1,0 +1,105 @@
+body {
+	margin:0;
+	box-sizing: border-box;
+	font-family: sans-serif;
+}
+.pre-header {
+	height: 20px;
+	background-color: #221d11;
+	margin-bottom: 0;
+}
+.header {
+	height: 20px;
+	background-color: #34b4cb;
+	margin-top: 0;
+	padding: 15px;
+}
+ul {
+	list-style: none;
+	color: white;
+	margin: 0;
+	text-align: center;
+}
+#about {
+	float: left;
+}
+#browse {
+	float: right;
+}
+.container {
+	max-width: 800px;
+	margin: 0 auto;
+}
+#logo {
+	text-align: center;
+	margin: 70px 0 100px 0;
+}
+.col-lg-6 {
+	float: left;
+	width: 50%;
+}
+
+.lala {
+	text-align: center;
+}
+div.login {
+	position: relative;
+}
+.login {
+	color: #34b4cb;
+	font-weight: bold;
+	margin: 20px 0 150px 0;
+	text-align: left;
+}
+input {
+	margin-left: 15px;
+	height: 25px;
+	width: 55%;
+	background-color: #dedddc;
+}
+button {
+	margin-top: 20px;
+	position: absolute;
+	right: 120px;
+	color: #34b4cb;
+	background-color: white;
+	border-width: 0;
+	font-weight: bold;
+	font-family: sans-serif;
+	font-size: 16px;
+}
+.signup {
+	position: relative;
+	left: 10px;
+	top: 60px;
+	text-transform: uppercase;
+	margin: 40px 0 10px 100px;
+}
+p {
+	margin-top: 30px;
+	font-style: italic;
+	text-align: left;
+	padding-right: 15px;
+}
+#clear {
+	clear: both;
+}
+footer {
+	background-color: #221d11;
+	margin-top: 200px;
+	height: 50px;
+}
+#copyright {
+		margin-top: 20px;
+		float: left;
+}
+#twitter {
+	float: right;
+	margin-top: 10px;
+	margin-right: 20px;
+}
+#facebook {
+	float: right;
+	margin-top: 10px;
+	margin-right: 40px;
+}
